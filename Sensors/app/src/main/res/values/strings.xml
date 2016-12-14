@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="sensor_list">Sensor List</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+    <string name="accelerometer_sensor">Accelerometer Sensor</string>
+    <string name="light">LIGHT:</string>
+    <string name="isportrait">isPortrait</string>
+    <string name="x_axis">X:</string>
+    <string name="y_axis">Y:</string>
+    <string name="z_axis">Z:</string>
+</resources>
